@@ -1,3 +1,3 @@
-Hello from this git tutorial!
+Hello from command line git!
 
-Hello again from this git tutorial. It's weird revisiting git over a year later. I shouldn't do that.
+Hello again from command line git. Where in tarnation are all those notes I took? Doing a NodeSchool tutorial as a refresher. I've used Bitbucket until now.
